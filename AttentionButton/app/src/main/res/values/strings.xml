@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Attention Button</string>
+    <string name="attention_needed">ATTENTION NEEDED!</string>
+    <string name="attention_sending">ATTENTION SENDING...</string>
+    <string name="attention_sent">ATTENTION SENT!</string>
+    <string name="attention_failed">ATTENTION FAILED!</string>
+    <string name="background">Background for the app.</string>
+</resources>
